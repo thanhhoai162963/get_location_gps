@@ -1,0 +1,2 @@
+rootProject.name='Send_Gps'
+include ':app'
